@@ -6896,10 +6896,10 @@ html.w-mod-js *[data-ix="hide"] {
     width: auto;
   }
 }
-
+/*
 .bodytext {
   letter-spacing: 5px;
-}
+}*/
 
 @font-face {
   font-family: 'Fontawesome Solid';
