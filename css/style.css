@@ -4600,6 +4600,10 @@ html.w-mod-js *[data-ix="hide"] {
     width: auto;
   }
 }
+
+  .bodytext{
+    letter-spacing: 5px;
+  }
 @font-face {
   font-family: 'Fontawesome Solid';
   src: url('https://uploads-ssl.webflow.com/62a27d54f11f5818735d9a1c/62a27d54f11f5828395d9b89_fa-solid-900.ttf') format('truetype');
