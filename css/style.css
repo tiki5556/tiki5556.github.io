@@ -3769,6 +3769,18 @@ a {
   background-color: transparent;
 }
 
+
+.about1 {
+  padding-top: 80px;
+  padding-bottom: 80px;
+  border-top: 1px solid rgba(52, 66, 104, 0.07);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.07);
+  border-radius: 1px;
+  background-color: transparent;
+}
+
+
+
 .split-form-area {
   display: -webkit-box;
   display: -webkit-flex;
