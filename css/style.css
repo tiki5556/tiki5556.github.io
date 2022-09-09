@@ -5428,7 +5428,7 @@ a {
 
 .video-block {
   display: -ms-grid;
-  display: grid;
+  /*display: grid;*/
   margin-right: 120px;
   margin-left: 120px;
   -webkit-box-orient: vertical;
